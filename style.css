@@ -5,6 +5,12 @@ font-size: 5vh;
 
 }
 
+.allphotocss{
+
+    background-color: #3b3b3b;
+    font-size: 5vh;
+}
+
 .MyDiv{
     color: #00ffff;
     text-align: center;
@@ -20,7 +26,82 @@ left: 30vh;
 
 }
 
+.allphotodiv{
+    position: absolute;
+left: 120vh;
+
+}
+
 .allvideocss{
 
 background-color: #3b3b3b;
+}
+
+.allvideoh1{
+   text-align: center;
+   color: #00ffff;
+}
+
+
+
+.bg-img {
+    /* The image used */
+    background-image: url("img_nature.jpg");
+  
+    min-height: 380px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    /* Needed to position the navbar */
+    position: relative;
+    
+  }
+  
+  /* Position the navbar container inside the image */
+  .container {
+    position: absolute;
+    margin: 20px;
+    width: auto;
+  }
+  
+  /* The navbar */
+  .topnav {
+    overflow: hidden;
+    background-color: black;
+  }
+  
+  /* Navbar links */
+  .topnav a {
+    float: left;
+    color: #00ffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .video1{
+      background-color: #3b3b3b;
+  }
+
+  .contactus{
+      background-color: #3b3b3b;
+  }
+  
+
+  .ournews{
+    background-color: #3b3b3b;
+}
+
+
+.aboutus{
+    background-color: #3b3b3b;
 }
