@@ -22,13 +22,13 @@ font-size: 5vh;
 .allvideodiv{
 
     position: absolute;
-left: 30vh;
+left: 54vh;
 
 }
 
 .allphotodiv{
     position: absolute;
-left: 120vh;
+left: 119vh;
 
 }
 
@@ -59,7 +59,8 @@ background-color: #3b3b3b;
     position: relative;
     
   }
-  
+
+
   /* Position the navbar container inside the image */
   .container {
     position: absolute;
@@ -105,3 +106,70 @@ background-color: #3b3b3b;
 .aboutus{
     background-color: #3b3b3b;
 }
+
+
+.aboutusphoto{
+position: absolute;
+left: 46vh;
+bottom: 9vh;
+}
+
+.fanta{
+  background-color: #3b3b3b;
+}
+
+.singlevideo1{
+  position: absolute;
+left: 33vh;
+bottom: 35vh;
+}
+
+.singlevideo2{
+  position: absolute;
+left: 115vh;
+bottom: 35vh;
+
+
+}
+
+.bg-img2{
+
+  float: right;
+  width: 300px;
+ 
+  padding: 10px;
+  
+}
+
+
+.aboutusphoto{
+  position: absolute;
+  display: block;
+  left: 88vh;
+
+
+}
+
+
+.bg-img2{
+position: absolute;
+left: 88vh;
+bottom: 82vh;
+
+}
+
+
+.videoclean{
+  position: absolute;
+  left: 45vh;
+  bottom: 10vh;
+}
+
+
+.fantavideo{
+  position: absolute;
+  left: 45vh;
+  bottom: 10vh;
+}
+
+
