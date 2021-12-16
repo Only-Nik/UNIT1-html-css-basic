@@ -22,13 +22,13 @@ font-size: 5vh;
 .allvideodiv{
 
     position: absolute;
-left: 54vh;
+left: 37vh;
 
 }
 
 .allphotodiv{
     position: absolute;
-left: 119vh;
+left: 103vh;
 
 }
 
@@ -40,6 +40,7 @@ background-color: #3b3b3b;
 .allvideoh1{
    text-align: center;
    color: #00ffff;
+   font-size: 5vh;
 }
 
 
@@ -110,8 +111,8 @@ background-color: #3b3b3b;
 
 .aboutusphoto{
 position: absolute;
-left: 46vh;
-bottom: 9vh;
+left: 74vh;
+bottom: 4vh;
 }
 
 .fanta{
@@ -120,14 +121,14 @@ bottom: 9vh;
 
 .singlevideo1{
   position: absolute;
-left: 33vh;
-bottom: 35vh;
+left: 15vh;
+bottom: 30vh;
 }
 
 .singlevideo2{
   position: absolute;
-left: 115vh;
-bottom: 35vh;
+left: 95vh;
+bottom: 30vh;
 
 
 }
@@ -144,16 +145,16 @@ bottom: 35vh;
 
 .aboutusphoto{
   position: absolute;
-  display: block;
-  left: 88vh;
-
+  
+  left: 72vh;
+ bottom: 4vh;
 
 }
 
 
 .bg-img2{
 position: absolute;
-left: 88vh;
+left: 74vh;
 bottom: 82vh;
 
 }
@@ -161,15 +162,81 @@ bottom: 82vh;
 
 .videoclean{
   position: absolute;
-  left: 45vh;
-  bottom: 10vh;
+  left: 40vh;
+  bottom: 19vh;
 }
 
 
-.fantavideo{
+
+
+.bg-img21{
+  float: right;
+  width: 300px;
+ 
+  padding: 10px;
+}
+.bg-img21{
   position: absolute;
-  left: 45vh;
-  bottom: 10vh;
+left: 70vh;
+bottom: 82vh;
 }
+
+.bg-img22{
+  float: right;
+  width: 300px;
+ 
+  padding: 10px;
+}
+.bg-img22{
+  position: absolute;
+left: 70vh;
+bottom: 89vh;
+}
+
+.h1video1{
+  color: #00ffff;
+  text-align: center;
+font-size: 5vh;
+}
+
+.okaylesgo{
+  position: absolute;
+  left: 40vh;
+  bottom: 19vh;
+}
+
+.h1okay1{
+  color: #00ffff;
+  text-align: center;
+font-size: 5vh;
+}
+
+.bg-img23{
+  float: right;
+  width: 300px;
+ 
+  padding: 10px;
+}
+.bg-img23{
+  position: absolute;
+left: 70vh;
+bottom: 88vh;
+}
+
+.aboutmeh1{
+  color: #00ffff;
+  text-align: center;
+font-size: 5vh;
+}
+
+.paragraph{
+  color: #ddd;
+  text-align: center;
+  cursor: pointer;
+  line-height: 2vh;
+    border: 3px solid #00ffff;
+    margin-top: 200px;
+    border-radius: 50vh;
+  }
 
 
